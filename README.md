@@ -4,4 +4,4 @@
 
 |No. |Project  |Languages/Frameworks | Brief Description of Projects
 | ------------- |:-------------:|:-------------:|:-------------:|
-|      00       |[Libft](https://github.com/caunhach/42cursus_Libft)     |       C       |Create your own libc|
+|      00       |[Libft](https://github.com/caunhach/42cursus_Libft)     |       Java       |Create your own libc|
