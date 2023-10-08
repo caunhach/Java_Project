@@ -4,4 +4,4 @@
 
 |No. |Project  |Languages/Frameworks | Brief Description of Projects
 | ------------- |:-------------:|:-------------:|:-------------:|
-|      00       |[BattleShip]([https://github.com/caunhach/42cursus_Libft](https://github.com/caunhach/BattleShip/blob/main/README.md)     |       Java       |Create Simple game with java|
+|      00       |[BattleShip](https://github.com/caunhach/BattleShip/blob/main/README.md)     |       Java       |Create Simple game with java|
