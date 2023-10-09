@@ -5,3 +5,4 @@
 |No. |Project  |Languages/Frameworks | Brief Description of Projects
 | ------------- |:-------------:|:-------------:|:-------------:|
 |      00       |[BattleShip](https://github.com/caunhach/BattleShip/blob/main/README.md)     |       Java       |Create Simple game with java|
+|      01       |[Connection](https://github.com/caunhach/BattleShip/blob/main/README.md)     |       Java       |build GUI app to store contact's information|
