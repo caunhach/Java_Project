@@ -5,5 +5,5 @@
 |No. |Project  |Languages/Tech | Brief Description of Projects
 | ------------- |:-------------:|:-------------:|:-------------:|
 |      00       |[BattleShip](https://github.com/caunhach/BattleShip/blob/main/README.md)     |       Java       |Create Simple game with java|
-|      01       |[Connection](https://github.com/caunhach/Music_Machine)   |       Java/JavaSwing/MIDI/networking       |build GUI app for sound application|
+|      01       |[Music_Machine](https://github.com/caunhach/Music_Machine)   |       Java/JavaSwing/MIDI/networking       |build GUI app for sound application|
 |      02       |[Connection](https://github.com/caunhach/Connection)     |       Java/JavaSwing       |build GUI app to store contact's information|
